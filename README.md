@@ -45,8 +45,12 @@ We compare multiple strategies to optimize long-term portfolio growth.
 
 ## 📂 Project Structure  
 
-spy-etf-investment-strategies/ │── README.md # Project Documentation
+spy-etf-investment-strategies/ 
+
+│── README.md # Project Documentation
+
 │── Project-code.ipynb # Jupyter Notebook with full analysis
+
 │── Project.pptx # Final project presentation
 
 

@@ -74,6 +74,4 @@ pip install numpy pandas matplotlib seaborn yfinance
 
 2. Run Jupyter Notebook
 
-jupyter notebook
-
 3. Open and Execute Project-code.ipynb

@@ -53,13 +53,17 @@ spy-etf-investment-strategies/
 
 │── Project.pptx # Final project presentation
 
+│── data/
+
+│ ├── SPY.xlsx # SPY ETF dataset (1993-2023)
+
 
 ---
 
 ## 🛠️ Technologies & Libraries Used  
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Financial Modeling:** Monte Carlo Simulations, Risk Models  
-- **Data Source:** Yahoo Finance API, SPY Historical Data  
+- **Data Source:** Yahoo Finance API, SPY Historical Data  **SPY ETF Dataset (`SPY.xlsx`)**
 
 ---
 

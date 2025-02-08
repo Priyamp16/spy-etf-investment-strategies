@@ -44,3 +44,28 @@ We compare multiple strategies to optimize long-term portfolio growth.
 ---
 
 ## 📂 Project Structure  
+
+spy-etf-investment-strategies/ │── README.md # Project Documentation
+│── Project-code.ipynb # Jupyter Notebook with full analysis
+│── Project.pptx # Final project presentation
+
+
+---
+
+## 🛠️ Technologies & Libraries Used  
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Financial Modeling:** Monte Carlo Simulations, Risk Models  
+- **Data Source:** Yahoo Finance API, SPY Historical Data  
+
+---
+
+## ⚡ How to Run the Project  
+### **1. Install Dependencies**  
+
+pip install numpy pandas matplotlib seaborn yfinance
+
+2. Run Jupyter Notebook
+
+jupyter notebook
+
+3. Open and Execute Project-code.ipynb
